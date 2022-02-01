@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gabi, currently a CS student
+- 👀 I’m interested in many areas such as Data Science, App Developemnt, Software Development
+- 🌱 I’m currently learning Java, C++, Python and SQL
+- 💞️ I’m looking to collaborate on projects that would help me learn as I progress towards being a full-time programmer
